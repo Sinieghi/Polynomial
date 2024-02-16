@@ -12,3 +12,4 @@ e:\DOC\Data_structure-algorithms\code_snippet\Polynomial\obj\Debug\net8.0\refint
 e:\DOC\Data_structure-algorithms\code_snippet\Polynomial\obj\Debug\net8.0\Polynomial.pdb
 e:\DOC\Data_structure-algorithms\code_snippet\Polynomial\obj\Debug\net8.0\Polynomial.genruntimeconfig.cache
 e:\DOC\Data_structure-algorithms\code_snippet\Polynomial\obj\Debug\net8.0\ref\Polynomial.dll
+E:\DOC\Data_structure-algorithms\code_snippet\Polynomial\obj\Debug\net8.0\Polynomial.sourcelink.json
